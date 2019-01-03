@@ -1,0 +1,51 @@
+
+/* Class = "UINavigationItem"; title = "Todo details"; ObjectID = "0Jq-eb-8Qa"; */
+"0Jq-eb-8Qa.title" = "Todo details";
+
+/* Class = "UINavigationItem"; title = "Create new"; ObjectID = "0cp-en-ye7"; */
+"0cp-en-ye7.title" = "Create new";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "3pf-pN-RVb"; */
+"3pf-pN-RVb.title" = "Edit";
+
+/* Class = "UINavigationItem"; title = "Todos"; ObjectID = "Mb3-9U-iwC"; */
+"Mb3-9U-iwC.title" = "Todos";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Rss-LG-siP"; */
+"Rss-LG-siP.title" = "Done";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "VEw-pv-X8F"; */
+"VEw-pv-X8F.text" = "3";
+
+/* Class = "UIViewController"; title = "Create"; ObjectID = "aHm-lG-f3Z"; */
+"aHm-lG-f3Z.title" = "Create";
+
+/* Class = "UITabBarItem"; title = "Todos"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Todos";
+
+/* Class = "UITabBarItem"; title = "Stats"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Stats";
+
+/* Class = "UINavigationItem"; title = "Stats"; ObjectID = "eUo-ta-5jQ"; */
+"eUo-ta-5jQ.title" = "Stats";
+
+/* Class = "UIBarButtonItem"; title = "Undo"; ObjectID = "fdU-2G-fBd"; */
+"fdU-2G-fBd.title" = "Undo";
+
+/* Class = "UILabel"; text = "Completed todos"; ObjectID = "me9-cq-wVV"; */
+"me9-cq-wVV.text" = "Completed todos";
+
+/* Class = "UITextField"; placeholder = "Things to do"; ObjectID = "o6V-9n-bPP"; */
+"o6V-9n-bPP.placeholder" = "Things to do";
+
+/* Class = "UITextView"; text = "Enter additional notes here"; ObjectID = "qlu-el-XXb"; */
+"qlu-el-XXb.text" = "Enter additional notes here";
+
+/* Class = "UIBarButtonItem"; title = "Remove"; ObjectID = "rfy-yg-96E"; */
+"rfy-yg-96E.title" = "Remove";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "yOi-j8-Rif"; */
+"yOi-j8-Rif.text" = "2";
+
+/* Class = "UILabel"; text = "Active todos"; ObjectID = "ylI-fV-RJN"; */
+"ylI-fV-RJN.text" = "Active todos";

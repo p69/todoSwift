@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StatsScreen.updateMoreActions():StatsScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.todosController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TodosDataSource.tableView(_:cellForRowAt:):TodosDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UILocalizedLabel.localizationFileName.didset:LocalizableControls.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TodosScreen.onTodoTapped(todo:):TodosScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "todosController.todos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in TodosDataSource.tableView(_:cellForRowAt:):TodosDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self!.todos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UILocalizedLabel.awakeFromNib():LocalizableControls.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,20 @@
+PODS:
+  - NewPopMenu (2.1.1)
+  - thenPromise (4.1.1)
+
+DEPENDENCIES:
+  - NewPopMenu (~> 2.0)
+  - thenPromise
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NewPopMenu
+    - thenPromise
+
+SPEC CHECKSUMS:
+  NewPopMenu: 60d67846a401964dcaa51bffb792f04f6fe2fc76
+  thenPromise: d55d8acccafb618cab8dc48f8636678eb016de85
+
+PODFILE CHECKSUM: 31259a94e907ba3d808d56c8ec02c22edb8b206b
+
+COCOAPODS: 1.5.3
